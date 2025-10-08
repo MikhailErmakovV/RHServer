@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="MainServer.cpp">
+    <ClCompile Include="MainClient.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
